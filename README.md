@@ -1,5 +1,6 @@
 # marketier ![Github Licence](http://img.shields.io/badge/license-MIT-blue.svg)
 # Description
+An investment services website that allows users to easily invest and inform themselves of the latest financial news.
 
 # Table of Contents
 * [Installation](#Installation)
